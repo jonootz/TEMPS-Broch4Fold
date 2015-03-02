@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">My Company Name, LLC</Variable>
+  <Variable
+    Name="Title"
+    Comment=""
+    OriginalName="PDFGuideTitle">4-Fold Brochure</Variable>
+  <Variable
+    Name="Year"
+    Comment="">2015</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">La Jolla, CA 92037</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">1234 Lorem Ipsum</Variable>
+</CatapultVariableSet>

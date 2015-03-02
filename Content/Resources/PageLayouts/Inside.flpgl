@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Legal" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Orientation="landscape">
+        <Frame Flow="body" ColumnCount="4" ColumnDivider="Solid 1pt Black" Width="14in" Height="8.5in" X="0px" Y="0px" Right="0px" Bottom="0px" Anchors="" DividerTopMargin="0">
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Brochure—4-Fold—Crop/Registration Marks"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression=""
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/4Fold.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Brochure—4-Fold—Crop/Registration Marks"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="true"
+    ConvertToCMYK="true"
+    PageMode="UseNone" />
+</CatapultTarget>

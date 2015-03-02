@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Legal" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Orientation="landscape" BackgroundPositionX="545px" BackgroundRepeat="no-repeat" BackgroundImage="../Images/Image1.eps" BackgroundPositionY="100px">
+        <Frame X="1011px" Y="-0.25in" Width="3.71875in" Height="9in" Flow="decoration0" Right="-0.25in" Bottom="-0.25in" BackgroundType="Solid" BackgroundColor="#4e4d4e" Anchors="" FlowIndex="1" />
+        <Frame X="-0.25in" Y="-0.25in" Width="3.71875in" Height="9in" Flow="decoration1" Right="1011px" Bottom="-0.25in" BackgroundType="Solid" BackgroundColor="#4e4d4e" Anchors="" />
+        <Frame Flow="body" ColumnCount="1" ColumnDivider="Solid 1pt Black" Width="3.46875in" Height="8.5in" X="0px" Y="0px" Right="1011px" Bottom="0px" Anchors="" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" DividerTopMargin="0" BackgroundType="Solid" BackgroundColor="#4e4d4e">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnDivider="Solid 1pt Black" Width="3.53125in" Height="8.5in" X="333px" Y="0px" Right="672px" Bottom="0px" Anchors="" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" DividerTopMargin="0" FlowIndex="1">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnDivider="Solid 1pt Black" Width="3.53125in" Height="8.5in" X="672px" Y="0px" Right="333px" Bottom="0px" Anchors="" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" DividerTopMargin="0" FlowIndex="2">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnDivider="Solid 1pt Black" Width="3.46875in" Height="8.5in" X="1011px" Y="0px" Right="0px" Bottom="0px" Anchors="" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" DividerTopMargin="0" FlowIndex="3" BackgroundType="Solid" BackgroundColor="#4e4d4e">
+        </Frame>
+        <Frame X="0px" Y="748px" Width="1011px" Height="49px" Flow="footer" Right="333px" Bottom="19px" VerticalAlign="middle" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="FrameFooterImages" xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" />&#160;<xhtml:img xhtml:src="../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" />&#160;<xhtml:img xhtml:src="../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

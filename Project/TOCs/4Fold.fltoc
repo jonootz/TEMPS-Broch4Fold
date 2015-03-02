@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Outside"
+    Link="/Content/Outside.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Outside.flpgl" />
+  <TocEntry
+    Title="Inside"
+    Link="/Content/Inside.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Inside.flpgl" />
+</CatapultToc>
